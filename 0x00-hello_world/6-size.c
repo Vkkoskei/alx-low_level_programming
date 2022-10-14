@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * Declare variables
- * print out sizes of data types in c
- * Return : 0
- */
+* main - print out sizes of data types in c
+* task 6
+* Return: Always 0 (Success)
+*/
+
 int main(void)
 {
 	char a;
